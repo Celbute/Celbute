@@ -1,4 +1,11 @@
+## hey, André Luís here!
 
+<div>
+  
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Celbute&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Celbute&layout=compact&langs_count=16&theme=great-gatsby"/>
+</div>
+<br>
 
 
 <p align="center"> Greetings, Visitor! 👋. <br><br>I'm André Luís, a passionate software developer who ventures into the intricate paths of back-end and front-end. My journey into the world of programming is driven by an inextinguishable curiosity and an unconditional love for technology. </p>&nbsp;
